@@ -1,0 +1,7 @@
+22-03-26 ----> 8000 (in)(phone pe) -> 8000
+         ----> 1000 (out)(advance) -> 7000
+
+23-03-26 ----> 170 (out)(kiran[train ticket,pups]) -> 6830
+         ----> 81  (out)(pavan[1st day bus charge]) -> 6749
+
+25-03-26 ----> 
